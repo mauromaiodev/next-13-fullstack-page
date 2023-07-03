@@ -1,0 +1,89 @@
+[33mcommit 6e3ae30018f481bc973c2426e2e96e26f24c74b0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Mon Jul 3 20:39:20 2023 -0300
+
+    refactoring-image-component-and-footerColumn-map
+
+[33mcommit 9c712b6c4cbd43486f2c7a6bd1f4416dc157bf83[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Mon Jul 3 16:44:35 2023 -0300
+
+    added-footerColumn-component
+
+[33mcommit 0c2e4be514bf35e9704ee2727d445c9cd1310a16[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 13:43:06 2023 -0300
+
+    footer-component-changes
+
+[33mcommit 26ce3064956d078520ec922216e15f3c7ee218db[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 13:13:38 2023 -0300
+
+    added-authProviders
+
+[33mcommit b52513fc94b3d5ca5c44d4c48a4d6be0b8981c75[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 13:02:31 2023 -0300
+
+    creating-of-the-constants-index
+
+[33mcommit fef10cff918c1c9ac729aa94e4e38911ad3bc9bf[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 28 13:01:32 2023 -0300
+
+    navbar-layout-editing-with-next-link-and-image
+
+[33mcommit c60e06be45ca3a5ccb2e71b73d0e5d906de5116d[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 12:50:48 2023 -0300
+
+    creating-components-folder-with-navbar-and-footer-and-importing-to-layout
+
+[33mcommit fe9c9fe280acbf3eccde528b235ea629bc1bc612[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 12:33:02 2023 -0300
+
+    home-sections
+
+[33mcommit a3851d0eba3162ae60ac7c42cc774cde711172a6[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 12:30:00 2023 -0300
+
+    common-types-and-interface-implementation
+
+[33mcommit 1837fab2d70ccf7c80c9fc722aaf0d37ea1585a2[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 12:27:45 2023 -0300
+
+    added-theme-colors-to-tailwind-config
+
+[33mcommit e2c53ef628514890f52aee585c6cb793d143a35e[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 12:26:39 2023 -0300
+
+    importing-public-folder-and-favicon
+
+[33mcommit 01ababb4977002c235f88c0004318e0948342e49[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 12:22:12 2023 -0300
+
+    globals-css
+
+[33mcommit a17ae235cc783ffbfbe7023f4ddffdcb02ad9771[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Fri Jun 30 12:01:30 2023 -0300
+
+    creating-folder-structure-and-app-home
+
+[33mcommit c634c89cd120178004ad3838bf872726299badbf[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Thu Jun 29 11:14:08 2023 -0300
+
+    creating project
+
+[33mcommit d0adeea0196275100c4c3576847ab32b589784e2[m
+Author: Mauro <mauromaio.dev@gmail.com>
+Date: Thu Jun 29 11:10:08 2023 -0300
+
+    Initial commit from Create Next App

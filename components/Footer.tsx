@@ -25,7 +25,7 @@ const Footer = () => {
       <div className="flex flex-col gap-12 w-full">
         <div className="flex items-start flex-col">
           {/* <Image src="" width={115} height={38} alt="LOGO" /> */}
-          LOGO
+          LOGO TESTE
           <p className="text-start text-sm font-normal mt-5 max-w-xs">
             Poste seus projetos aqui!
           </p>
