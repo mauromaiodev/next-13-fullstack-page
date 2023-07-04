@@ -22,7 +22,7 @@ const Navbar = () => {
       <div className="flexCenter gap-4">
         {session ? (
           <>
-            UserPhoto
+            User Photo
             <Link href="/create-project">Share Work</Link>
           </>
         ) : (
