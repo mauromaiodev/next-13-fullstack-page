@@ -23,11 +23,6 @@ export const categoryFilters = [
   "Desenvolvimento de Jogos",
   "DevOps",
   "Ciência de Dados",
-  "Aprendizado de Máquina",
-  "Segurança Cibernética",
-  "Blockchain",
-  "E-commerce",
-  "Chatbots",
 ];
 
 export const footerLinks = [
