@@ -26,10 +26,7 @@ const Footer = () => (
         {/* <Image src="/" width={116} height={38} alt="logo" /> */}
 
         <p className="text-start text-sm font-normal mt-5 max-w-xs">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, quas
-          cum cumque repudiandae nostrum, architecto officia aspernatur vitae
-          tempore quia pariatur enim voluptates asperiores at earum tempora
-          dignissimos, dolorum fugit.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.
         </p>
       </div>
       <div className="flex flex-wrap gap-12">
